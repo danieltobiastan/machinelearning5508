@@ -1,4 +1,5 @@
-# mlnerdynerd
+# Machine Learning for CITS5508
 
-Repository for ML assignments.
+Hi there! If you're looking at this repository, these are just some of the work that I have complied and done for the individual assignments for data science and machine learning. All datasets used and referenced can be found in the datasets folder. If there are any mistakes or find anything that I can improve on, please feel free to drop me a message on discord or email me!
+
 
